@@ -1,7 +1,5 @@
 # RAWAA Gebäudereinigung – Bilingual Cleaning Company Website
 
-**Live Demo:** https://alkhaledfurniture.com
-
 ## 📋 Project Overview
 RAWAA Gebäudereinigung is a professional bilingual business website developed for a German cleaning company offering services for offices, hotels, clinics, and schools.
 
